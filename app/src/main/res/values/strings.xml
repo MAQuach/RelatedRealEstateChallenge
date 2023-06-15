@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpsonsViewer</string>
+
+    <string name="character_catalog">Character Catalog</string>
+    <string name="character_description">Character Description</string>
+    <string name="character_thumbnail">Character Thumbnail</string>
+    <string name="character_name">Character Name</string>
+    <string name="search_for_a_specific_character">Search for a specific character</string>
+    <string name="character_image">Character Image</string>
+    <string name="character_list">Characters List</string>
+    <string name="character_image_contentdescription">Image of the character.</string>
+</resources>
